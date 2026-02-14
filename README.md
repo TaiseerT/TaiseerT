@@ -1,6 +1,6 @@
 Mohammad Taiseer Tello — Full-Stack Software Engineer
 
-# 3.5+ years building production-grade web and mobile applications.
+3.5+ years building production-grade web and mobile applications.
 
 ## What I Do
 	•	Design and build scalable backend services (Node.js)
@@ -15,7 +15,7 @@ Mohammad Taiseer Tello — Full-Stack Software Engineer
     • Long-term maintainability
 
 ## Selected Experience
-# Full-stack Software Engineer at xhopngo
+### Full-stack Software Engineer at [xhopngo](https://www.xhopngo.com)
     •	Owned deployments and release workflows
 	   •	Managed hosting, CI/CD, and infrastructure
 	   •	Built and maintained live web & mobile applications
