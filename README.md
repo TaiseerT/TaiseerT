@@ -1,27 +1,21 @@
-Mohammad Taiseer Tello — Full-Stack Software Engineer
+# Mohammad Taiseer Tello
+### Senior Full-Stack Software Engineer
 
-3.5+ years building production-grade web and mobile applications.
+Full-stack engineer with 4+ years of experience building web and mobile applications using React, Next.js, React Native, Node.js, and TypeScript. Focused on performance, scalability, and reliable production systems.
 
-## What I Do
-	•	Design and build scalable backend services (Node.js)
-	•	Develop modern web applications (Next.js, React)
-	•	Ship cross-platform mobile apps (React Native)
-	•	Manage CI/CD, deployments, and production environments
-	•	Contribute to system architecture and scalability decisions
+## Tech Stack
+**Frontend:** React, Next.js, React Native, Expo, Redux Toolkit, Tailwind CSS  
+**Backend:** Node.js, Express.js, REST APIs, Firebase, Supabase  
+**Databases:** MongoDB, PostgreSQL, MySQL, SQLite, Redis  
+**Languages:** TypeScript, JavaScript, Python, SQL
 
-## Focus
-    • Production reliability
-    • Clean architecture
-    • Long-term maintainability
+## Experience Highlights
+- Reduced page-load times by ~70%.
+- Improved application performance by 20%.
+- Built and maintained production web and mobile applications with 99.9% uptime.
+- Developed real-time market data and multi-wallet infrastructure.
 
-## Selected Experience
-### Full-stack Software Engineer at [xhopngo](https://www.xhopngo.com)
-    •	Owned deployments and release workflows
-	   •	Managed hosting, CI/CD, and infrastructure
-	   •	Built and maintained live web & mobile applications
+## Contact
+[LinkedIn](https://www.linkedin.com/in/mohammad-tello) · [Portfolio](https://mohammad-tello.vercel.app) · [Email](mailto:taiseertello@gmail.com)
 
-## Open to Remote Opportunities
-
-[LinkedIn](https://www.linkedin.com/in/mohammad-tello)  
-[Email](mailto:taiseertello@gmail.com)
-[Portfolio](https://mohammad-tello.vercel.app)
+Open to remote opportunities.
